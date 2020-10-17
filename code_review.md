@@ -17,6 +17,7 @@
 - Good job including links to various notebooks with explanations and .py dependencies in the README (one link is incorrect though--you reference the scraper.py but it links to cleaner.py. Not a big deal just so you know!)
 - Be sure to include your name, tools used, and a high level summary of your results/findings of the project in your README!
 - Great use of docstrings on .py modules, clear explanations of each function
+- I'd love to see a markdown cell at the end with an explanation of "conclusions" or "takeaways" summarizing the what analysis you take away from this! Particularly with regards to the important features. 
 
 ## Proper Data Science:
 
